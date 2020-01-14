@@ -1,2 +1,7 @@
+compilation
+
 cl <.cpp>
 cl /LD <.cpp>
+
+run this in the dev cmd: 
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\vcvars64.bat"
