@@ -1,7 +1,7 @@
 // C++ program to demonstrate various function of unordered_set 
+using namespace std;
 #include <iostream>
 #include <unordered_set>
-using namespace std; 
 
 int main() { 
   // declaring set for storing string data-type 
@@ -31,7 +31,4 @@ int main() {
   cout << key << " not found\n" ; 
   else
   cout << "Found " << key << endl ; 
-  
-  // now iterating over whole set and printing its 
-  // content
 } 
